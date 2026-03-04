@@ -1,0 +1,141 @@
+Necesito realizar cambios específicos en el contenido del sitio softwarepar.lat para optimizar posicionamiento SEO local en:
+
+Carlos Antonio López, Itapúa, Paraguay
+
+Mayor Otaño, Itapúa, Paraguay
+
+Todo el departamento de Itapúa
+
+NO cambiar diseño visual.
+NO modificar colores ni estructura.
+Solo modificar textos, títulos y SEO técnico.
+
+1️⃣ CAMBIAR HERO PRINCIPAL (H1 Y SUBTEXTO)
+Buscar el H1 actual:
+
+"SoftwarePar: Tu Partner Tecnológico en Paraguay"
+
+Reemplazarlo por:
+
+H1:
+"Desarrollo Web y Sistemas en Carlos Antonio López, Mayor Otaño e Itapúa"
+
+Subtítulo (párrafo debajo del H1):
+"En SoftwarePar ayudamos a negocios, consultorios y emprendimientos en Carlos Antonio López, Mayor Otaño y todo Itapúa a digitalizarse con páginas web profesionales, sistemas personalizados y soluciones tecnológicas modernas."
+
+Mantener los botones actuales.
+Agregar botón adicional:
+Texto: "Solicitar Diagnóstico Gratuito"
+Debe llevar al formulario de contacto.
+
+2️⃣ MODIFICAR SECCIÓN DE SERVICIOS (H2)
+Buscar el título:
+
+"Servicios de Desarrollo de Software en Paraguay"
+
+Cambiar por:
+
+"Servicios de Desarrollo de Software en Itapúa para Negocios y Consultorios"
+
+En el párrafo debajo, agregar una frase natural que incluya:
+"Carlos Antonio López, Mayor Otaño e Itapúa"
+
+Sin repetir en exceso.
+
+3️⃣ MODIFICAR SECCIÓN DE PLANES
+Buscar el título:
+
+"Planes de Desarrollo Web by Software en Paraguay"
+
+Cambiar por:
+
+"Planes de Desarrollo Web en Carlos Antonio López e Itapúa"
+
+Debajo del título agregar una línea nueva:
+
+"Soluciones ideales para negocios y consultorios en Carlos Antonio López, Mayor Otaño y todo Itapúa."
+
+4️⃣ AGREGAR NUEVA SECCIÓN ANTES DEL FOOTER
+
+Insertar una sección nueva justo antes del footer con el siguiente contenido:
+
+H2:
+"Atendemos Empresas y Consultorios en Itapúa"
+
+Párrafo:
+"Brindamos servicios de desarrollo web, sistemas personalizados y digitalización empresarial en Carlos Antonio López, Mayor Otaño y todo el departamento de Itapúa. Ofrecemos soporte remoto y asesoramiento profesional adaptado a la realidad local."
+
+Lista en formato bullets:
+
+Desarrollo web en Carlos Antonio López
+
+Sistemas de turnos online en Mayor Otaño
+
+Digitalización de negocios en Itapúa
+
+Soporte técnico y mantenimiento local
+
+Agregar botón:
+"Hablar por WhatsApp"
+Enlazar al número actual del sitio.
+
+5️⃣ ACTUALIZAR META TITLE Y META DESCRIPTION
+
+Modificar etiquetas del <head>:
+
+Meta Title:
+"SoftwarePar | Desarrollo Web en Carlos Antonio López e Itapúa"
+
+Meta Description:
+"Empresa de desarrollo web y sistemas en Carlos Antonio López, Mayor Otaño e Itapúa. Creamos páginas web, sistemas de turnos online y soluciones tecnológicas para negocios y consultorios."
+
+Agregar si no existen:
+
+Open Graph title
+
+Open Graph description
+
+Canonical URL
+
+6️⃣ AGREGAR SCHEMA LOCALBUSINESS
+
+Insertar JSON-LD en el <head> con:
+
+Type: LocalBusiness
+Name: SoftwarePar
+AreaServed:
+
+Carlos Antonio López, Itapúa, Paraguay
+
+Mayor Otaño, Itapúa, Paraguay
+
+Itapúa, Paraguay
+
+Category: ProfessionalService
+URL: https://softwarepar.lat
+
+7️⃣ CREAR 3 PÁGINAS NUEVAS
+
+Crear:
+
+/desarrollo-web-carlos-antonio-lopez
+/sistemas-en-mayor-otano
+/software-en-itapua
+
+Cada página debe contener:
+
+H1 con la ciudad específica
+
+900+ palabras originales
+
+Mención natural de la ciudad 5–8 veces
+
+Llamado a la acción
+
+Enlace al formulario principal
+
+Optimización SEO básica (meta title y description únicos)
+
+No duplicar contenido entre páginas.
+
+FIN DE INSTRUCCIONES
